@@ -1,2 +1,3 @@
 # game_project
-Game project for dev course
+Game project for code nation developer course. 
+built with Python
